@@ -1,4 +1,4 @@
-# 🧬 Genetic Algorithm Text Evolver
+# 🧬 Genetic Algorithm String Evolver
 
 This project simulates a **Genetic Algorithm** designed to evolve a random string into a predefined **TARGET** using biological-inspired operations like selection, crossover, and mutation.
 
